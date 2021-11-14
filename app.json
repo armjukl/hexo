@@ -1,0 +1,7 @@
+{
+  "name": "hexo",
+  "description": "hexo For Heroku",
+  "website": "https://github.com/armjukl/hexo",
+  "repository": "https://github.com/armjukl/hexo",
+  "success_url": "/"
+}
